@@ -1,0 +1,27 @@
+_repo: A-True-Interpretation-of-the-Witch-of-Endor_68704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muggleton, Lodowick
+    gutenberg_agent_id: '54906'
+    url: http://www.gutenberg.org/2009/agents/54906
+description: ''
+gutenberg_issued: '2022-08-07'
+identifiers:
+  gutenberg: '68704'
+language: en
+pgterms:marc904: https://archive.org/details/b30371636
+pgterms:marc905: 20200206053151muggleton
+pgterms:marc906: '1724'
+pgterms:marc907: GB
+production_note: deaurider, David King, and the Online Distributed Proofreading Team
+  at http://www.pgdp.net. (This file was produced from images generously made available
+  by The Internet Archive.)
+publication_note: United Kingdom :self published,1724.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A True Interpretation of the Witch of Endor
+url: http://www.gutenberg.org/ebooks/68704
