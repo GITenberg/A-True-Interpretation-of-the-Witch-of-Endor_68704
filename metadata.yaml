@@ -1,11 +1,16 @@
 _repo: A-True-Interpretation-of-the-Witch-of-Endor_68704
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68704-h/images/cover.jpg
 creator:
   author:
     agent_name: Muggleton, Lodowick
     gutenberg_agent_id: '54906'
     url: http://www.gutenberg.org/2009/agents/54906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68704#A-True-Interpretation-of-the-Witch-of-Endor
 gutenberg_issued: '2022-08-07'
 identifiers:
   gutenberg: '68704'
